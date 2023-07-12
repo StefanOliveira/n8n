@@ -1,3 +1,5 @@
+// Create a Code node in Workflow to use this code
+
 const AWS = require('aws-sdk');
 
 AWS.config.update({
